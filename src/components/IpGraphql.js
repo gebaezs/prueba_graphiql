@@ -1,0 +1,3 @@
+// DIRECCION PARA LA CONECCION DE LAS CONSULTAS CON GRAPHQL
+
+export default "http://35.196.16.91/graphql";
